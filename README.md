@@ -1,4 +1,4 @@
-# 💰 Super Mario Remake
+# 🍄 Super Mario Remake
 
 Original credit to Nintendo. Renders tiles and images to the screen. Features an avatar who can be controlled using arrow keys and space bar. This remake version is made using Lua and the LOVE Game Engine.
 
